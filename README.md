@@ -1,5 +1,8 @@
 **Supportive Spirit Bot: Mental Health Support with Fun and More!**
 
+Invite the bot to your server by the following link:
+https://discord.com/api/oauth2/authorize?client_id=1159133991316762664&permissions=8&scope=bot
+
 **How to Use:**
 Commands:
 **!ss** hi: Greet the local server.
