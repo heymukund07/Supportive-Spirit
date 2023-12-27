@@ -1,7 +1,6 @@
-**Supportive Spirit Bot: Mental Health Support with Fun and More!
-**
-**How to Use:
-**
+**Supportive Spirit Bot: Mental Health Support with Fun and More!**
+
+**How to Use:**
 Commands:
 **!ss** hi: Greet the local server.
 
@@ -42,4 +41,5 @@ Commands:
 **!ss** breath: Relax with a breathing exercise.
 !ss selfcare: Receive self-care tips.
 !ss talk [message]: Chat with the bot using OpenAI ( Will be available very soon! ) 
+
 Note: Some commands may require moderator permissions. Enjoy and take care! 🌈✨ #SupportiveSpiritBot
