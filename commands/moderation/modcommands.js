@@ -9,10 +9,10 @@ module.exports = (bot,msg)=>{
     const attachment = new Discord.MessageAttachment('./media/logo.png', 'logo.png');
          const exampleEmbed = new Discord.MessageEmbed()
 	      .setColor('#0099ff')
-	      .setTitle('Projectmysa')
-	      .setURL('https://www.instagram.com/projectmysa/')
+	      .setTitle('Supportive Spirit')
+	      .setURL('https://www.instagram.com/')
 	      //.setAuthor('Sartaj', 'https://i.imgur.com/wSTFkRM.png', 'https://discord.js.org')
-        .setDescription('Hi, ✨projectmysa bot is a fun and easy-to-use Mental Health Support Bot for fun, help, hugs and more! ❤️')
+        .setDescription('Hi, ✨Supportive Spirit bot is a fun and easy-to-use Mental Health Support Bot for fun, help, hugs and more! ❤️')
           .attachFiles(attachment)
 	      .setThumbnail('attachment://logo.png')
           .addFields(
